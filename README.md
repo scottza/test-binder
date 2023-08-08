@@ -1,3 +1,3 @@
 # test-binder
 
-[![Binder](https://binder.let.ethz.ch/badge_logo.svg)](https://binder.let.ethz.ch/v2/gh/scottza/test-binder/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scottza/test-binder/HEAD)
